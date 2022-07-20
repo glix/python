@@ -1,5 +1,5 @@
 # Autodetecting setup.py script for building the Python extensions
-#
+# commit test
 
 __version__ = "$Revision$"
 
